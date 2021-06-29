@@ -1,1 +1,1 @@
-# simple-hangman-c-
+# simple-hangman-c++
